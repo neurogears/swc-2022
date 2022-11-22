@@ -55,12 +55,6 @@ permalink: /slides/intro/
 
 ---
 
-#### What is Bonsai?
-
-![Bonsai](../../assets/images/bonsai-core.svg)
-
----
-
 <!-- .element: data-transition="default none" -->
 ### Why do we need a new algebra?
 ![Behavior Experiments](../../assets/images/behavior-experiments-1.svg)
@@ -94,6 +88,24 @@ permalink: /slides/intro/
 <!-- .element: data-transition="none" -->
 ### Why do we need a new algebra?
 ![Behavior Experiments](../../assets/images/behavior-experiments-5.svg)
+
+---
+
+#### What is Bonsai?
+
+![Bonsai](../../assets/images/bonsai-core.svg)
+
+---
+
+#### [Marble diagrams](https://bonsai-rx.org/docs/articles/observables.html)
+
+![Marble diagram](../../assets/images/marblediagram.svg)
+
+![Error diagram](../../assets/images/marblediagram-error.svg)
+<!-- .element: class="fragment" -->
+
+![Operator diagram](../../assets/images/marblediagram-operator.svg)
+<!-- .element: class="fragment" -->
 
 ---
 

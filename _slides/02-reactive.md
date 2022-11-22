@@ -32,32 +32,6 @@ permalink: /slides/reactive/
 ---
 
 <!-- .element: data-transition="default none" -->
-#### A metaphor for observable sequences
-
-<img alt="Nasa twitter account" src="../../assets/images/nasatwitter.jpg" width="400"/>
-
---
-
-<!-- .element: data-transition="none" -->
-#### A metaphor for observable sequences
-
-<img alt="Webcam twitter account" src="../../assets/images/webcamtwitter.jpg" width="400"/>
-
----
-
-#### [Marble diagrams](https://bonsai-rx.org/docs/articles/observables.html)
-
-![Marble diagram](../../assets/images/marblediagram.svg)
-
-![Error diagram](../../assets/images/marblediagram-error.svg)
-<!-- .element: class="fragment" -->
-
-![Operator diagram](../../assets/images/marblediagram-operator.svg)
-<!-- .element: class="fragment" -->
-
----
-
-<!-- .element: data-transition="default none" -->
 ![Workflow](../../assets/images/cameracapture.svg)
 <!-- .element: style="display: inline-block; vertical-align: middle;" -->
 ![Marble diagram](../../assets/images/framepicker-marblecanvas.svg)
