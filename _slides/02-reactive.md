@@ -10,7 +10,7 @@ permalink: /slides/reactive/
 ![Bonsai](../../assets/images/bonsai-lettering.svg)
 
 ### Reactive Operators
-[neurogears.org/vrp-2022](https://neurogears.org/vrp-2022)
+[neurogears.org/swc-2022](https://neurogears.org/swc-2022)
 <table style="width: 100%;">
   <tr>
     <th style="vertical-align: middle; width: 50%; height: 100px; padding-left: 100px">
@@ -242,7 +242,7 @@ permalink: /slides/reactive/
 ![Bonsai](../../assets/images/bonsai-lettering.svg)
 
 ### Questions?
-[neurogears.org/vrp-2022](https://neurogears.org/vrp-2022)
+[neurogears.org/swc-2022](https://neurogears.org/swc-2022)
 <table style="width: 100%;">
   <tr>
     <th style="vertical-align: middle; width: 50%; height: 100px; padding-left: 100px">
