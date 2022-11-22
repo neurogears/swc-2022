@@ -45,6 +45,18 @@ permalink: /slides/reactive/
 
 ---
 
+#### [Marble diagrams](https://bonsai-rx.org/docs/articles/observables.html)
+
+![Marble diagram](../../assets/images/marblediagram.svg)
+
+![Error diagram](../../assets/images/marblediagram-error.svg)
+<!-- .element: class="fragment" -->
+
+![Operator diagram](../../assets/images/marblediagram-operator.svg)
+<!-- .element: class="fragment" -->
+
+---
+
 <!-- .element: data-transition="default none" -->
 ![Workflow](../../assets/images/cameracapture.svg)
 <!-- .element: style="display: inline-block; vertical-align: middle;" -->
