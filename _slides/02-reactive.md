@@ -156,9 +156,15 @@ permalink: /slides/reactive/
 
 ---
 
-###### DelaySubscription / SubscribeWhen
+###### DelaySubscription
 
 ![DelaySubscription](../../assets/images/delaysubscription.svg)
+
+---
+
+###### SubscribeWhen
+
+![SubscribeWhen](../../assets/images/subscribewhen.svg)
 
 ---
 
